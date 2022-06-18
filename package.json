@@ -43,7 +43,8 @@
     "react-hot-toast": "^2.2.0",
     "styled-components": "^5.3.5",
     "react-router-dom": "^6.3.0",
-    "react-router-hash-link": "^2.4.3"
+    "react-router-hash-link": "^2.4.3",
+    "js-cookie": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -68,5 +69,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.2",
+    "@types/webpack-env": "^1.17.0"
   }
 }

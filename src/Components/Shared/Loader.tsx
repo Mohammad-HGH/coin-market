@@ -1,4 +1,5 @@
-import React, { Fragment } from 'react';
+import { Fragment } from 'react';
+import logo from '../../Assets/images-counter/loader-logo.png'
 
 const Loader = () => {
     return (
@@ -24,14 +25,13 @@ const Loader = () => {
                     <circle cx="256" cy="256" r="60" fill="url(#loaderImage)" stroke="none" stroke-width="0" />
                     <defs>
                         <pattern id="loaderImage" height="100%" width="100%" patternContentUnits="objectBoundingBox">
-                            <image href="../../../theme-assets/images-counter/loader-logo.png" preserveAspectRatio="none" width="1" height="1"></image>
+                            <image href={logo} preserveAspectRatio="none" width="1" height="1"></image>
                         </pattern>
                     </defs>
                 </svg>
                 <div className="loader-section section-left"></div>
                 <div className="loader-section section-right"></div>
             </div>
-            ]
         </Fragment>
     );
 };
