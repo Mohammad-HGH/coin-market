@@ -43,7 +43,7 @@ const Home = (props: any) => {
 
                                                         style={{ width: '100%', height: '100%' }}
                                                     >
-                                                        <g clip-path="url(#svg_animation_mask)">
+                                                        <g clipPath="url(#svg_animation_mask)">
                                                             {/* Step 1 */}
 
 
@@ -164,10 +164,10 @@ const Home = (props: any) => {
                                                                 <g opacity="1"
                                                                     transform="matrix(1.0196,0,0,0.9676,-49.875,71.125)">
                                                                     <path className="animated" data-animation="path"
-                                                                        data-animation-delay="1.4s" stroke-linecap="round"
-                                                                        stroke-linejoin="miter" fill-opacity="0"
-                                                                        stroke-miterlimit="4" stroke="rgb(99,125,221)"
-                                                                        stroke-opacity="1" stroke-width="4"
+                                                                        data-animation-delay="1.4s" strokeLinecap="round"
+                                                                        strokeLinejoin="miter" fillOpacity="0"
+                                                                        strokeMiterlimit="4" stroke="rgb(99,125,221)"
+                                                                        strokeOpacity="1" strokeWidth="4"
                                                                         d=" M57.584999084472656,53.77799987792969 C41.18600082397461,60.93600082397461 21.354000091552734,65.125 0,65.125 C-56.362789154052734,65.125 -102.125,35.94248580932617 -102.125,0 C-102.125,-35.94248580932617 -56.362789154052734,-65.125 0,-65.125 C0,-65.125 0,-65.125 0,-65.125 C56.362789154052734,-65.125 102.125,-35.94248580932617 102.125,0 C102.125,22.325000762939453 84.47000122070312,42.04199981689453 57.584999084472656,53.77799987792969">
                                                                     </path>
                                                                 </g>
@@ -177,11 +177,11 @@ const Home = (props: any) => {
                                                             <g transform="matrix(1,0,0,1,345,595)" opacity="1">
                                                                 <g opacity="1" transform="matrix(1,0,0,1,0,0)">
                                                                     <path className="animated" data-animation="path-reverse"
-                                                                        data-animation-delay="1.4s" stroke-linecap="butt"
-                                                                        stroke-linejoin="miter" stroke-dashoffset="20"
-                                                                        fill="none" fill-opacity="0" stroke-miterlimit="4"
-                                                                        stroke="rgb(99,125,221)" stroke-opacity="1"
-                                                                        stroke-width="3"
+                                                                        data-animation-delay="1.4s" strokeLinecap="butt"
+                                                                        strokeLinejoin="miter" strokeDashoffset={20}
+                                                                        fill="none" fillOpacity="0" strokeMiterlimit="4"
+                                                                        stroke="rgb(99,125,221)" strokeOpacity="1"
+                                                                        strokeWidth="3"
                                                                         d="M0.26,101.431l65-45  c0,0,5.4-1.4,5-25l1-10c0,0-1.2-5.6,6-8l50-30c0,0,7.4-3.6,1-7l-65-38">
                                                                     </path>
                                                                 </g>
@@ -191,10 +191,10 @@ const Home = (props: any) => {
                                                             <g transform="matrix(1,0,0,1,290,545)" opacity="1">
                                                                 <g opacity="1" transform="matrix(1,0,0,1,0,0)">
                                                                     <path className="animated" data-animation="path-reverse"
-                                                                        data-animation-delay="1.4s" stroke-linecap="butt"
-                                                                        stroke-linejoin="miter" fill-opacity="0"
-                                                                        stroke-miterlimit="4" stroke="rgb(99,125,221)"
-                                                                        stroke-opacity="1" stroke-width="3"
+                                                                        data-animation-delay="1.4s" strokeLinecap="butt"
+                                                                        strokeLinejoin="miter" fillOpacity="0"
+                                                                        strokeMiterlimit="4" stroke="rgb(99,125,221)"
+                                                                        strokeOpacity="1" strokeWidth="3"
                                                                         d="M0.239,42.447l11-6  c0,0,5-1.2,4-25v-9c0,0-2-5.8,6-9l16-8">
                                                                     </path>
                                                                 </g>
@@ -204,10 +204,10 @@ const Home = (props: any) => {
                                                             <g transform="matrix(1,0,0,1,175,430)" opacity="1">
                                                                 <g opacity="1" transform="matrix(1,0,0,1,0,0)">
                                                                     <path className="animated" data-animation="path"
-                                                                        data-animation-delay="2.4s" stroke-linecap="butt"
-                                                                        stroke-linejoin="miter" fill-opacity="0"
-                                                                        stroke-miterlimit="4" stroke="rgb(99,125,221)"
-                                                                        stroke-opacity="1" stroke-width="3"
+                                                                        data-animation-delay="2.4s" strokeLinecap="butt"
+                                                                        strokeLinejoin="miter" fillOpacity="0"
+                                                                        strokeMiterlimit="4" stroke="rgb(99,125,221)"
+                                                                        strokeOpacity="1" strokeWidth="3"
                                                                         d="M101.68,24.545l-25-15  c0,0-6.14-6-14-1l-28,17c0,0-6.4,5.16-5-30v-20c0,0,0.8-5.6-4-5l-35,25c0,0-5.2,1.6-4,18v90c0,0-1.6,9.8,6,11l40,25c0,0,7,2.6,2,7  l-35,20">
                                                                     </path>
                                                                 </g>
@@ -262,10 +262,10 @@ const Home = (props: any) => {
                                                             <g transform="matrix(1,0,0,1,320.5,330.5)" opacity="1">
                                                                 <g opacity="1" transform="matrix(1,0,0,1,0,0)">
                                                                     <path className="animated" data-animation="path"
-                                                                        data-animation-delay="2.4s" stroke-linecap="butt"
-                                                                        stroke-linejoin="miter" fill-opacity="0"
-                                                                        stroke-miterlimit="4" stroke="rgb(99,125,221)"
-                                                                        stroke-opacity="1" stroke-width="3"
+                                                                        data-animation-delay="2.4s" strokeLinecap="butt"
+                                                                        strokeLinejoin="miter" fillOpacity="0"
+                                                                        strokeMiterlimit="4" stroke="rgb(99,125,221)"
+                                                                        strokeOpacity="1" strokeWidth="3"
                                                                         d="M32.208,82.43l-35-20  c0,0-6.714-2.571,1-7l26-15c0,0,4.857-1.143,8-8v-35c0,0,0.857-5.81,3-6l70-45">
                                                                     </path>
                                                                 </g>
@@ -302,10 +302,10 @@ const Home = (props: any) => {
                                                             <g transform="matrix(1,0,0,1,475,410)" opacity="1">
                                                                 <g opacity="1" transform="matrix(1,0,0,1,0,0)">
                                                                     <path className="animated" data-animation="path"
-                                                                        data-animation-delay="2.4s" stroke-linecap="butt"
-                                                                        stroke-linejoin="miter" fill-opacity="0"
-                                                                        stroke-miterlimit="4" stroke="rgb(99,125,221)"
-                                                                        stroke-opacity="1" stroke-width="3"
+                                                                        data-animation-delay="2.4s" strokeLinecap="butt"
+                                                                        strokeLinejoin="miter" fillOpacity="0"
+                                                                        strokeMiterlimit="4" stroke="rgb(99,125,221)"
+                                                                        strokeOpacity="1" strokeWidth="3"
                                                                         d="M0.261,90.447l50,30  c0,0,4.15,5.17,14,0l12-6c0,0,6-2,5-8v-50c0,0-0.5-9,9-12l80-45c0,0,5.75-3.5,0-7l-32-16">
                                                                     </path>
                                                                 </g>
@@ -343,10 +343,10 @@ const Home = (props: any) => {
                                                             <g transform="matrix(1,0,0,1,495,260)" opacity="1">
                                                                 <g opacity="1" transform="matrix(1,0,0,1,0,0)">
                                                                     <path className="animated" data-animation="path-reverse"
-                                                                        data-animation-delay="1.4s" stroke-linecap="butt"
-                                                                        stroke-linejoin="miter" fill-opacity="0"
-                                                                        stroke-miterlimit="4" stroke="rgb(99,125,221)"
-                                                                        stroke-opacity="1" stroke-width="3"
+                                                                        data-animation-delay="1.4s" strokeLinecap="butt"
+                                                                        strokeLinejoin="miter" fillOpacity="0"
+                                                                        strokeMiterlimit="4" stroke="rgb(99,125,221)"
+                                                                        strokeOpacity="1" strokeWidth="3"
                                                                         d="M102.684,0v20  c0.666,7.167-9,11-9,11l-130,75c-11.25,4.5-9,13-9,13v50">
                                                                     </path>
                                                                 </g>
@@ -1785,7 +1785,7 @@ const Home = (props: any) => {
                                                 <span className="ml-1">Join us on Telegram</span>
                                             </li>
                                         </ul>
-                                        <form action="#" method="post" accept-charset="utf-8" className="text-center">
+                                        <form action="#" method="post" acceptCharset="utf-8" className="text-center">
                                             <input type="text" className="form-control animated" data-animation="fadeInUpShorter"
                                                 data-animation-delay="0.8s" name="name" placeholder="Your Name" />
                                             <input type="text" className="form-control animated" data-animation="fadeInUpShorter"
